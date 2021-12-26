@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/exercise-ucs-heritier" mode="merge"/>
+    <filter root="/content/exercise-ucs-heritier" mode="merge"/>
+    <filter root="/content/dam/exercise-ucs-heritier/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/exercise-ucs-heritier" mode="merge"/>
+</workspaceFilter>

@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/exercise-ucs-heritier",
+        "create path (nt:unstructured) /content/dam/exercise-ucs-heritier/jcr:content",
+        "set properties on /content/dam/exercise-ucs-heritier/jcr:content",
+        "set cq:conf{String} to /conf/exercise-ucs-heritier",
+        "set jcr:title{String} to \"unicredit\"",
+        "end"
+    ]
+}
